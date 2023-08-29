@@ -1,0 +1,2 @@
+# SG
+sistemas gráficos
